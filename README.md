@@ -90,7 +90,6 @@ pipeline {
 }
 ```
 Click Apply and Save. 
-Now build the job. Now you will see output like below:
-
+Now build the job
 
 
