@@ -74,6 +74,7 @@ Click on Save.
 
 ## Step 5 - Create build job in Jenkins
 Now Create a pipeline job in Jenkins with below pipeline code:
+```sh
 
 pipeline {
     agent { 
@@ -87,7 +88,7 @@ pipeline {
         }
     }
 }
-
+```
 Click Apply and Save. 
 Now build the job. Now you will see output like below:
 
